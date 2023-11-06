@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      user: ${MONGO_USER}
+      password: ${MONGO_PASSWORD}
+      url: ${MONGO_URI}
